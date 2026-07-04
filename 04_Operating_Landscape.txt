@@ -1,0 +1,10 @@
+Operating Landscape
+
+Represents technology, competition, economics, regulation, society,
+geopolitics and customer behaviour.
+
+The landscape changes continuously through trends, opportunities,
+threats and episodic disruptions.
+
+It provides the context against which enterprise capability architecture
+must evolve.

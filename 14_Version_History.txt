@@ -1,0 +1,5 @@
+Version History
+
+v0.1 Initial theory. v0.2 Clock and Gyroscope. v0.3 Terrain introduced.
+v0.4 Capability Architecture. v0.5 Enterprise evolution and operating
+landscape. Future versions to capture theory refinement.

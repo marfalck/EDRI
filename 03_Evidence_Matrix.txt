@@ -1,0 +1,11 @@
+Maintain evidence for every governing law.
+
+Columns:
+Law
+Enterprise Question
+Conceptual Evidence
+Diagnostic Evidence
+Supporting Articles
+External Case Studies
+Contradictory Evidence
+Confidence

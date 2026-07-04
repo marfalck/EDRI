@@ -1,0 +1,328 @@
+Enterprise Dynamics
+
+Document:
+Terminology
+
+Version:
+0.1
+
+Status:
+Working Draft
+
+Purpose:
+This document defines the canonical terminology used throughout Enterprise Dynamics. It exists to ensure consistency across the theory, research programme, consulting framework, executive education material and future publications.
+
+Related Documents:
+- Enterprise Dynamics Theory
+- Enterprise Dynamics Research
+- Enterprise Dynamics Visual Language
+- Enterprise Dynamics Consulting
+- Enterprise Dynamics Executive Education
+
+------------------------------------------------------------
+Enterprise
+------------------------------------------------------------
+
+Definition
+
+An enterprise is an organised system of capabilities assembled to achieve specific objectives within a continuously changing operating landscape.
+
+Purpose
+
+The enterprise is the primary system studied by Enterprise Dynamics.
+
+It is viewed as a dynamic system rather than an organisational chart.
+
+What it is not
+
+- A legal entity
+- An organisation chart
+- A collection of departments
+
+Examples
+
+- Startup
+- SME
+- Multinational corporation
+- Government agency
+- Charity
+- Military organisation
+
+------------------------------------------------------------
+Operating Landscape
+------------------------------------------------------------
+
+Definition
+
+The continuously evolving external environment within which an enterprise operates.
+
+Purpose
+
+Defines the context to which the enterprise must continuously adapt.
+
+Typical elements
+
+- Technology
+- Competition
+- Economy
+- Regulation
+- Society
+- Geopolitics
+- Customer behaviour
+
+Characteristics
+
+- Continuous change
+- Episodic disruption
+- Opportunities
+- Threats
+- Uncertainty
+
+Represented by
+
+Terrain / topographic map.
+
+------------------------------------------------------------
+Enterprise Purpose
+------------------------------------------------------------
+
+Definition
+
+The objectives the enterprise exists to achieve.
+
+Purpose
+
+Defines what success looks like.
+
+Examples
+
+- Growth
+- Profitability
+- Innovation
+- Cost leadership
+- Quality
+- Sustainability
+- Public value
+- Market leadership
+
+Relationship
+
+Purpose together with the Operating Landscape determines what enterprise should be built.
+
+------------------------------------------------------------
+Capability
+------------------------------------------------------------
+
+Definition
+
+A coherent organisational ability required to create, govern, deliver or support value.
+
+Purpose
+
+Capabilities are the fundamental building blocks of Enterprise Dynamics.
+
+Examples
+
+- Commercial
+- Engineering
+- Delivery
+- Governance
+- Finance
+- Innovation
+
+What it is not
+
+- Department
+- Team
+- Job title
+- Reporting line
+
+------------------------------------------------------------
+Capability Domain
+------------------------------------------------------------
+
+Definition
+
+A logical grouping of related enterprise capabilities.
+
+Reference domains
+
+- Strategy
+- Commercial
+- Product / Service
+- Innovation
+- Engineering / Build
+- Delivery
+- Operations
+- Enterprise Services
+
+------------------------------------------------------------
+Capability Architecture
+------------------------------------------------------------
+
+Definition
+
+The composition, interaction and evolution of enterprise capabilities.
+
+Purpose
+
+Represents what the enterprise is built from.
+
+Capabilities may emerge, grow, shrink, split, merge and retire.
+
+Represented by interlocking gears.
+
+Does NOT represent organisation charts, reporting lines or headcount.
+
+------------------------------------------------------------
+Enterprise Motion
+------------------------------------------------------------
+
+Definition
+
+The evolution of enterprise capabilities through time.
+
+Purpose
+
+Explains how enterprises continuously evolve.
+
+Relationship
+
+Enterprise Motion is governed by the Enterprise Clock.
+
+------------------------------------------------------------
+Enterprise Clock
+------------------------------------------------------------
+
+Definition
+
+The mechanism that synchronises the evolution of the Capability Architecture.
+
+Purpose
+
+Ensures capabilities evolve coherently despite operating at different natural cadences.
+
+Represents
+
+- Synchronisation
+- Coupled evolution
+- Time
+
+Does NOT represent project schedules or deadlines.
+
+------------------------------------------------------------
+Natural Cadence
+------------------------------------------------------------
+
+Definition
+
+The inherent rate at which a capability should evolve according to its purpose.
+
+Principle
+
+Capabilities should evolve at their natural cadence rather than identical speeds.
+
+------------------------------------------------------------
+Synchronisation
+------------------------------------------------------------
+
+Definition
+
+The coordinated evolution of enterprise capabilities over time.
+
+Purpose
+
+Ensures capability evolution remains coherent.
+
+------------------------------------------------------------
+Dynamic Equilibrium
+------------------------------------------------------------
+
+Definition
+
+The continual balancing of enterprise capabilities against changing operating conditions.
+
+------------------------------------------------------------
+Enterprise Direction
+------------------------------------------------------------
+
+Definition
+
+The deliberate guidance of enterprise evolution.
+
+Represented by the Steering Wheel and Enterprise Gyroscope.
+
+------------------------------------------------------------
+Steering Wheel
+------------------------------------------------------------
+
+Represents deliberate leadership intervention through strategy, governance, capital allocation, incentives and organisation design.
+
+------------------------------------------------------------
+Enterprise Gyroscope
+------------------------------------------------------------
+
+Represents mechanisms preserving enterprise coherence during change through governance, decision principles, risk appetite, culture and institutional memory.
+
+------------------------------------------------------------
+Stable Orientation
+------------------------------------------------------------
+
+Definition
+
+The preservation of coherent enterprise direction throughout continuous evolution.
+
+------------------------------------------------------------
+Institutionalisation
+------------------------------------------------------------
+
+Definition
+
+Embedding judgement, authority and decision logic within the enterprise rather than individual leaders.
+
+------------------------------------------------------------
+Enterprise Resilience
+------------------------------------------------------------
+
+Definition
+
+The emergent ability of an enterprise to remain fit for purpose while continuously adapting.
+
+------------------------------------------------------------
+Fit for Purpose
+------------------------------------------------------------
+
+Definition
+
+The degree to which an enterprise remains appropriate for its objectives and operating landscape.
+
+------------------------------------------------------------
+Enterprise Evolution
+------------------------------------------------------------
+
+Definition
+
+The continuous adaptation of capability architecture, enterprise motion and enterprise direction over time.
+
+------------------------------------------------------------
+Terms Deliberately Avoided
+------------------------------------------------------------
+
+Department
+Organisation Chart
+Hierarchy
+Framework
+
+------------------------------------------------------------
+Open Terminology Questions
+------------------------------------------------------------
+
+- Should Capability Domain become Enterprise Domain?
+- Should Enterprise Motion become Capability Motion?
+- Should Fit for Purpose become a formal theorem?
+
+------------------------------------------------------------
+Version History
+------------------------------------------------------------
+
+v0.1 Initial terminology reference.

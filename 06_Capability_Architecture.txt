@@ -1,0 +1,17 @@
+Capability Architecture
+
+Reference capability domains:
+
+-   Strategy
+-   Commercial
+-   Product / Service
+-   Innovation
+-   Engineering / Build
+-   Delivery
+-   Operations
+-   Enterprise Services
+
+Capability architectures evolve through emergence, growth, reduction,
+splitting, merging and retirement.
+
+The gears visualise the architecture at a point in time.

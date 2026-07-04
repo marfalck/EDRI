@@ -1,0 +1,7 @@
+Map every article to:
+- Governing Law(s)
+- Conceptual Evidence
+- Diagnostic Evidence
+- Leadership Evidence
+- Constraint Evidence
+- Future research opportunities

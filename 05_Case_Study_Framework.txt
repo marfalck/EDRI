@@ -1,0 +1,9 @@
+For every organisation analyse:
+1. Operating Landscape
+2. Enterprise Purpose
+3. Current Capability Architecture
+4. Target Capability Architecture
+5. Enterprise Clock
+6. Enterprise Direction
+7. Enterprise Resilience
+8. Lessons learned

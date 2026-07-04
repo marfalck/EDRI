@@ -1,0 +1,12 @@
+Core Proposition
+
+Every enterprise exists to achieve specific objectives within a
+continuously changing operating landscape.
+
+As the landscape changes, enterprises must continuously evolve their
+capability architecture while maintaining synchronised capability
+evolution and coherent direction.
+
+Enterprise Dynamics explains this evolution through five mechanisms:
+Operating Landscape, Capability Architecture, Enterprise Clock, Steering
+Wheel and Enterprise Gyroscope.

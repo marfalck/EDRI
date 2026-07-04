@@ -1,0 +1,7 @@
+Enterprise Resilience
+
+Resilience is not an independent capability.
+
+It emerges when capability architecture remains fit for purpose while
+capability evolution stays synchronised and strategic direction remains
+coherent despite changing operating landscapes.

@@ -1,0 +1,8 @@
+Backlog:
+- Executive interviews
+- University engagement
+- Cross-industry case studies
+- Capability architecture benchmarking
+- Measurement framework
+- Enterprise Clock metrics
+- Longitudinal studies

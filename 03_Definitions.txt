@@ -1,0 +1,22 @@
+Definitions
+
+Operating Landscape: External conditions within which the enterprise
+operates.
+
+Enterprise Purpose: Desired outcomes the enterprise seeks to achieve.
+
+Capability: Organisational ability required to create, govern, deliver
+or support value.
+
+Capability Architecture: Composition and interaction of enterprise
+capabilities.
+
+Enterprise Clock: Mechanism synchronising capability evolution over
+time.
+
+Steering Wheel: Leadership intervention.
+
+Enterprise Gyroscope: Mechanism preserving strategic coherence.
+
+Enterprise Resilience: Emergent property resulting from sustained fit
+for purpose.

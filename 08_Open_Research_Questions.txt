@@ -1,0 +1,5 @@
+Examples:
+Can synchronisation be measured?
+What is the optimal capability evolution cadence?
+How should capability architectures evolve?
+Where does the theory fail?
