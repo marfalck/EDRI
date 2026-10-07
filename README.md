@@ -1,0 +1,1 @@
+Enterprise Dynamics does not prescribe what an enterprise should do. It provides a structured, traceable and continuously calibrated way for leaders to determine what to do, why, in what sequence and with what consequences.
